@@ -1,5 +1,11 @@
 ## Peraya Pattarakijkomjorn
 
+### About Me
+- I'm a KVIS student.
+- I participated in POSN Computer & Mathematics & Astronomy.
+- I'm interested in computer science & research.
+- I use C, C++, and Python.
+- I’m currently working on a connectome project.
 <!--
 **PerayaPatt/PerayaPatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
